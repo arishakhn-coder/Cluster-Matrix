@@ -126,7 +126,7 @@ Cluster-Matrix/
 │   └── dashboard_preview.png
 │
 ├── data/
-│   └──.gitkeep(The original dataset is not included in this repository. Download Ecommerce.csv separately and place it inside the data/ folder before running the training pipeline.)
+│   └──.gitkeep( place the downloaded Ecommerce.csv here )
 │
 ├── data_analysis/
 │   ├── customer_aggregation.py
@@ -155,7 +155,7 @@ Cluster-Matrix/
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/arishakhn-coder/Cluster-Matrix.git
+git clone https://github.com/arishakhn/Cluster-Matrix.git
 cd Cluster-Matrix
 ```
 
