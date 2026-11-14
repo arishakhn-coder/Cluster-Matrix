@@ -148,8 +148,6 @@ Cluster-Matrix/
     └── train_model.py
 ```
 
-*Note: The raw dataset is kept locally and excluded from GitHub. The `data/` folder may need to be created after downloading the dataset.*
-
 ## ▶️ Run Locally
 
 **1. Clone the repository**
